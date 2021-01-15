@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="472dd391-d624-4600-bd23-1466c54dd3e8" name="Default Changelist" comment="Codechef and other ds and algo problem">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/AdditiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ArrayAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/BestMeetingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/BuySellStockProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CheckIfArrayElementsAreConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ChunkMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CommonThreeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CountInversionOfSize3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/CountSmallerOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DuplicateNumberDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/DuplicateWithinkIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FindElementsOccurringNByKTimesTetris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FirstPositiveMissing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/Flip0sMaximum1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GasStationCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GreedyTextJustification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/GroupElementsInSizeM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/HIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KadaneWrapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KthElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/KthLargestInTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LargerElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LargestMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LargestSubArrayWithEqual0sAnd1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LeetCodeCandy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestConsecutiveSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestSameSumSpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/LongestSubstringWithAtMost2Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxNumberFromTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaxRepeatingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumIminusJSuchThatAiGTAj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumMinimumArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumOfSubarrayOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumSumPathTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MaximumSumThreeNonOverlappingSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumDistanceBetweenTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumNumberFromSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MinimumSortedWhichSortsEntireArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MissingRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MoveAllZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/NthElementOfCountNumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/NumberOfTrianglesInUnsortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/PositiveAndNegativeNumberAlternatively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RearrangeArrayPerIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RearrangeSuchThatArriBecomesArrArri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ReorderArrayByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RepeatingAndMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/RotationWithMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SelfCrossing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ShortestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SmallestIntegerNotRepresentedBySubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SmallestSubarrayWithAtleastKSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SortedArrayTransformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/StableMarriageProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SubarrayWithGivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/SummaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ThreeSumSmallerThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TrappingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TripletInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TripletSumLessThanTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/TugOfWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/WaterContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/WiggleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/array/ZigZagArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/ArithmeticProgressionSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/CircularBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/FloorAndCeilingSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MedianOfTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MinimumInSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/PeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SearchForRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SortedAndRotatedArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/binarysearch/SquareRootOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/AddTwoNumberInBinaryRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/BitRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/ByteAsStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/CountingBitsTillNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/DrawHorizontalLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/InsertMintoNiTojBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/MaxProductWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/MissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NextPowerOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NumberOccuringOddTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/NumberOfBitsFlipToConvertNToM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/RealNumberToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/RepeatedDnaSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SquareOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SwapOddEvenBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/SwapTwoBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/bits/WinnerWithBeautifulNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BitonicSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BoxStacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/BurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CoinChanging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CoinChangingMinimumCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountAs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfTreePreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CountNumberOfTreesInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CutRodToMinimizeCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/CuttingRod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DiceThrowWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DistinctSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/DungeonGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/EggDropping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/ExpressionEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/Immutable2DSumRangeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/Knapsack01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestEvenLengthSubstringOfEqualHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestIncreasingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/LongestPalindromicSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MatrixMultiplicationCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaxSumForNonAdjacentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximizeSkiGates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumLengthChainPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumProductCutting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumSizeSubMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MaximumSumSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinCostPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinJumpToReachEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumCostTrainTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumNumberOfPerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/MinimumTriangleSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NPotGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NumberOfPathsInMxNMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/NumberOfWaysToScorePoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/OptimalTreeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PaintHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PalindromePartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/RegexMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/ScrambledString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/StockBuySellKTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SubsquareSurrounedByXs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/SymbolExpressionEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/TextJustification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/TwoStringInterleavingToFormThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/UglyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/dynamic/WildCardMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/ClosestPairOfPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/GrahamScanConvexHull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/JarvisMarchConvexHull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/MaximumPointsOnSameLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/geometry/SkylineDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AlientDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AllCyclesInDirectedGraphJohnson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/AllCyclesInDirectedGraphTarjan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ArticulationPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BellmanFordShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BinaryMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BinaryMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/BiparteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Boggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Bridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CloneDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ConvertOneWordToAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CycleInDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/CycleUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DAGShortestPathTopological.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DijkstraShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DirectedGraphConnectivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/EulerianPathAndCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/EvaluateDivison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FillOsWIthXsIfSurroundedByXs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FloodFillAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FloydWarshallAllPairShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/FordFulkerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/GraphColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/GraphTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/HamiltonianCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/KruskalMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/MaximumBiparteMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/MinimumHeightTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberOfIslandDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/NumberofTriangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/PrimMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/PrintAllPathFromSourceToDestination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ShortestDistanceFromExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/StronglyConnectedComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TarjanStronglyConnectedComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TransitiveClosure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/TravelingSalesmanHeldKarp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/ValidTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/WallsAndGates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/graph/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/AddNumberRepresentedByLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/CopyLinkListWIthArbitPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteDuplicateNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteNAfterMNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/DoubleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/Flatten2DList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/FlattenLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/InsertionSortLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LRUCacheLeetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkListIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LinkListToCompleteBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/LoopInLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MergeForLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MergeSortLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MiddleElementOfLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/MultiplyTwoNumbersLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/QuickSortSingleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RemoveDuplicatesSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RemoveMiddleElementsOfLineSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReorderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseAlternateKNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseAlternateNodeAndAppendAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ReverseKNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/ShuffleMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortNearlySortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortedCircularLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SortedLLToBalancedBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/StackWithLinkListMiddleOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/SwapTwoNodesInDoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/linklist/TripletToSumInLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/AddingTwoSetOfIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/AngleBetweenHourAndMinuteHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/BulbSwitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/CandiesProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/ContainsNumberWithinKDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/ConvertNumberIntoBase26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/CountRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/DayDifferenceBetweenTwoDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/DifferenceBetweenTwoTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FindingCelebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FloatPointConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/FourPointsFormSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/GetKthPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/HammingDistanceBetweenPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/IntegerListParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/LoadBalancers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/NestedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/NumberToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/PrimeNumbersBeforeN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/Read4Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/RomanNumberToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/misc/SparseTableRangeMinimumQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/Fill2DMatrixWith1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixInDiagonalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MatrixOf0sAnd1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/MoveCellPerCellValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/Mutable2DSumRangeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/ShortestDistanceFromAllBuildings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SmallestRectangleBlackPixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SpiralGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/SpiralPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multiarray/TilingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/BoundedBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/CountingWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/DependencyTaskExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/FillupMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/MinMaxKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/PrintInSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/RealTimeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/SingleQueueDomainTableUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/SpinLockMutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/ThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/multithreaded/ThreadPoolImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/AggregateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/AllStrobogrammaticNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ArithemeticProgressionExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ArrayMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/BinomialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/ConvertToBaseN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/CountNoOf2s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/CountNumbersNotIncluding4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/DivisionWithoutDivisionOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/EuclideanAlgoForGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/FactorialOfLargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/GenerateSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/LargestMultipleOf3inArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/LuckyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/MedianOf3Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/MthNumberInNSizeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NBy2PairSumToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NextLargestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NotIncluding4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/NumberOfCombinationsForStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PermutationBiggerThanNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PermutationLargerThanGivenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/PowerFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/RearrangeNumberInArrayToFormLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/RussianPeasantMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/StrobogrammaticNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/Trailing0sinFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/number/UniquePartitionOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/playground/TestInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/Rand7UsingRand5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/RandomCountrySelectionByPopluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/SelectMRandomNumbersInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/random/ShuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/AllAdjacentCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/Bracketology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/ChainWordsToFormCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/CombinationOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/CombinationWithStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/DifferentWaysToAddParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/FancyShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/InterpretationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/KeyPadPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/LongestAbsolutePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/MinimumEditForReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/NQueenProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/OneEditApart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/OperatorAdditionForTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/OptimalDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintAllPathFromTopLeftToBottomRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintAllSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintArrayInAdjacentWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintArrayInCustomizedFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/PrintSumCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/ReconstructItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/RemoveInvalidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/RestoreIPAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/SetPairTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringInterleaving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/StringPermutationRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/WordCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/recursion/WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/regex/MultiSpaceReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/IterativeQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/PanCakeSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/Sort0toN3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/sort/SortArrayByFrequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MaximumHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RemoveExtraBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/ReverseStackUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/SimplyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/stackqueue/StockSpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/AnagramOfFirstAsSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/CycleLeaderIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/GroupAnagramsTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/InPlaceTransformationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LexicographicRankInPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestSubstringWithKDistinctCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/LongestSubstringWithoutRepetingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/NTMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/PalindromePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/PrintAnagramTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RabinKarpSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RearrangeDuplicateCharsdDistanceAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RemoveConsecutiveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/RunLengthEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SmallestWindowContaingAllCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/StringEncoderDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SubstringSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/SubtringWithConcatentationOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ValidWordAbbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/WordAbbreviationCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/string/ZAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/SuffixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/SuffixTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/TernaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/suffixprefix/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/AddGreaterValueNodeToEveryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ArbitaryTreeToChildSumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BSTOneChildPreOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BSTSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeFromParentRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeMaximumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToCircularLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToDoubleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BinaryTreeToSortedLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/BoundaryTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ClosestValueBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConnectNodesAtSameLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructBSTFromPreOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromInOrderPreOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromLevelOrderInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/ContructTreeFromInorderPostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountNodesCompleteTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountNumberOfSmallerElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CountUnivalueTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/CousinNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/DegenerateBinaryTreeToSortedLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/DiameterOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/FenwickTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/HeightBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/HuffmanEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IdenticalTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/InorderSuccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IntervalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsCompleteBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/IsPreOrderArrayBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/KClosestValueInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LargestBSTInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LargestIndependentSetInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LeavesOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LevelOrderTraversalInReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LowestCommonAncestorInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/MorrisTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NextInorderSuccessorIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NextInorderSuccessorOfTwoTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NodesAtDistanceK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/NodesWithNoSibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PopulateInOrderSuccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PrintPostOrderFromPreOrderInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/PrintTwoBSTInSortedForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/RootToLeafToSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SegmentTreeMinimumRangeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SerializeDeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SinkNegativeToBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SizeOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SortedArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SortedOrderPrintCompleteTreeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SuccinctTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/SumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeIsomorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversalInSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversalLevelByLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/TreeTraversals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/UpsidedownBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VertexCoverBinaryTreeDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VerticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview/tree/VerticalTreePrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/AdditiveNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/ArrayAdditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/MaximumMinimumArrangementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/MeetingRoomsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/MultiplyAllFieldsExceptOwnPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/NumberOfTriangledInUnsortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/array/ThreeSumSmallerThanTargetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/bits/CountingBitsTillNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/bits/MaxProductWordLengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/dynamic/DecodeWaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/dynamic/PalindromePartitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/graph/CourseScheduleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/graph/TravelingSalesmanHeldKarpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/graph/WallsAndGatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/linklist/DeleteDuplicateNodesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/misc/IntegerListParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/multiarray/Mutable2DSumRangeQueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/number/AllStrobogrammaticNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/number/BasicCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/recursion/RestoreIPAddressesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/string/LongestSubstringWithKDistinctCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/string/PalindromePairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/string/StringEncoderDecoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/string/ValidPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/string/ValidWordAbbreviationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/suffixprefix/TrieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/tree/KClosestValueInBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview/tree/VerticalOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/AdditiveNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ArrayAddition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/BestMeetingPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/BuySellStockProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/CheckIfArrayElementsAreConsecutive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ChunkMerge$Triplet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ChunkMerge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/CommonThreeSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/Comparators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/CountInversionOfSize3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/CountSmallerOnRight$NumberIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/CountSmallerOnRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/DuplicateNumberDetection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/DuplicateWithinkIndices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/FindElementsOccurringNByKTimesTetris$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/FindElementsOccurringNByKTimesTetris.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/FirstPositiveMissing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/Flip0sMaximum1s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/FourSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/GasStationCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/GreedyTextJustification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/GroupElementsInSizeM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/HIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/IncreasingTripletSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/JumpGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/KadaneWrapArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/KthElementInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/KthLargestInTwoSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LargerElementOnRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LargestMountain$State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LargestMountain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LargestSubArrayWithEqual0sAnd1s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LeetCodeCandy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LongestConsecutiveSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LongestSameSumSpan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/LongestSubstringWithAtMost2Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaxNumberFromTwoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaxProductSubarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaxRepeatingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumGap$Bucket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumGap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumIminusJSuchThatAiGTAj$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumIminusJSuchThatAiGTAj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumMinimumArrangement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumOfSubarrayOfSizeK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumSumPathTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MaximumSumThreeNonOverlappingSubarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MeetingRooms$Interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MeetingRooms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MinimumDistanceBetweenTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MinimumNumberFromSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MinimumSortedWhichSortsEntireArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MissingRanges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MoveAllZerosToEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/MultiplyAllFieldsExceptOwnPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/NthElementOfCountNumberSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/NumberOfTrianglesInUnsortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/PositiveAndNegativeNumberAlternatively.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/RearrangeArrayPerIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/RearrangeSuchThatArriBecomesArrArri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ReorderArrayByIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/RepeatingAndMissingNumber$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/RepeatingAndMissingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/RotationWithMaxSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SelfCrossing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ShortestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SmallestIntegerNotRepresentedBySubsetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SmallestSubarrayWithAtleastKSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SortedArrayTransformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/StableMarriageProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SubarrayWithGivenSum$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SubarrayWithGivenSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/SummaryRanges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ThreeSumSmallerThanTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/TrappingWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/Triplet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/TripletInArray$Triplet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/TripletInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/TripletSumLessThanTotal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/TugOfWar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/WaterContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/WiggleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/array/ZigZagArrangement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/ArithmeticProgressionSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/CircularBinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/FloorAndCeilingSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/MedianOfTwoSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/MinimumInSortedRotatedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/PeakElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/SearchForRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/SearchInsertPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/SortedAndRotatedArraySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/binarysearch/SquareRootOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/AddTwoNumberInBinaryRepresentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/BitRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/ByteAsStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/CountBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/CountingBitsTillNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/DrawHorizontalLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/GrayCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/InsertMintoNiTojBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/MaxProductWordLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/MissingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/NextPowerOf2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/NumberOccuringOddTimes$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/NumberOccuringOddTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/NumberOfBitsFlipToConvertNToM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/RealNumberToBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/RepeatedDnaSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/ReverseBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/SquareOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/SwapOddEvenBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/SwapTwoBits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/bits/WinnerWithBeautifulNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/BitonicSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/BoxStacking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/BurstBalloons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CoinChanging.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CoinChangingMinimumCoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CountAs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CountNumberOfTreePreorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CountNumberOfTreesInBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CutRodToMinimizeCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/CuttingRod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/DecodeWays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/DiceThrowWays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Dimension.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/DistinctSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/DungeonGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/EditDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/EggDropping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/ExpressionEvaluation$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/ExpressionEvaluation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/FibonacciSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/FinishTimeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Immutable2DSumRangeQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Job.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Knapsack01$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/Knapsack01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestCommonSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestCommonSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestEvenLengthSubstringOfEqualHalf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestIncreasingPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestIncreasingSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/LongestPalindromicSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MatrixMultiplicationCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaxSumForNonAdjacentElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximizeSkiGates$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximizeSkiGates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumLengthChainPair$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumLengthChainPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumProductCutting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumSizeSubMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MaximumSumSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MinCostPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MinJumpToReachEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MinimumCostTrainTicket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MinimumNumberOfPerfectSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/MinimumTriangleSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/NPotGold$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/NPotGold.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/NumberOfPathsInMxNMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/NumberOfWaysToScorePoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/OptimalTreeSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/PaintHouse$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/PaintHouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/PalindromePartition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/RegexMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/ScrambledString$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/ScrambledString$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/ScrambledString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/StockBuySellKTransactions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubRectangularMatrixWithMaximumSum$KadaneResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubRectangularMatrixWithMaximumSum$Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubsetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubsquareSurrounedByXs$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SubsquareSurrounedByXs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/SymbolExpressionEvaluation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/TextJustification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/TwoStringInterleavingToFormThird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/UglyNumbers$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/UglyNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/dynamic/WildCardMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/ClosestPairOfPoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/GrahamScanConvexHull$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/GrahamScanConvexHull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/JarvisMarchConvexHull$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/JarvisMarchConvexHull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/MaximumPointsOnSameLine$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/MaximumPointsOnSameLine$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/MaximumPointsOnSameLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/SkylineDrawing$BuildingPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/SkylineDrawing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/XCoordinatorSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/geometry/YCoordinatorSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/AlientDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/AllCyclesInDirectedGraphJohnson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/AllCyclesInDirectedGraphTarjan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/ArticulationPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BellmanFordShortestPath$NegativeWeightCycleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BellmanFordShortestPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BinaryMaxHeap$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BinaryMaxHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BinaryMinHeap$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BinaryMinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/BiparteGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Boggle$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Boggle$TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Boggle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Bridge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CloneDirectedGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CloneGraph$UndirectedGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CloneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/ComparatorVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/ConvertOneWordToAnother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CourseSchedule$Neighbors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CourseSchedule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CycleInDirectedGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/CycleUndirectedGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/DAGShortestPathTopological.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/DijkstraShortestPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/DirectedGraphConnectivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/DisjointSet$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/DisjointSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/EulerianPathAndCircuit$Eulerian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/EulerianPathAndCircuit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/EvaluateDivison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/FillOsWIthXsIfSurroundedByXs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/FloodFillAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/FloydWarshallAllPairShortestPath$NegativeWeightCycleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/FloydWarshallAllPairShortestPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/FordFulkerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/GraphColoring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/GraphTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/HamiltonianCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/KruskalMST$EdgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/KruskalMST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/MaximumBiparteMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/MinimumHeightTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/NumberOfIsland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/NumberOfIslandDynamic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/NumberofTriangles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/PrimMST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/PrintAllPathFromSourceToDestination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/ShortestDistanceFromExit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/StronglyConnectedComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TarjanStronglyConnectedComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TopologicalSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TransitiveClosure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TravelingSalesmanHeldKarp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TravelingSalesmanHeldKarp$Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TravelingSalesmanHeldKarp$SetSizeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/TravelingSalesmanHeldKarp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/ValidTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/WallsAndGates$Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/WallsAndGates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/graph/WordLadder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/AddNumberRepresentedByLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/CopyLinkListWIthArbitPointer$RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/CopyLinkListWIthArbitPointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/DeleteDuplicateNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/DeleteNAfterMNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/DoubleLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/Flatten2DList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/FlattenLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/HeadTail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/InsertionSortLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LRUCacheLeetCode$MyMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LRUCacheLeetCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LinkListIsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LinkListToCompleteBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/LoopInLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/MergeForLargestSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/MergeSortLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/MiddleElementOfLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/MultiplyTwoNumbersLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/NodeRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/QuickSortSingleLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/RemoveDuplicatesSortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/RemoveMiddleElementsOfLineSegment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/ReorderList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/ReverseAlternateKNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/ReverseAlternateNodeAndAppendAtEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/ReverseKNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/RotateList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/ShuffleMerge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/SortNearlySortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/SortedCircularLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/SortedLLToBalancedBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/StackWithLinkListMiddleOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/SwapTwoNodesInDoubleLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/linklist/TripletToSumInLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/AddingTwoSetOfIntervals$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/AddingTwoSetOfIntervals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/AngleBetweenHourAndMinuteHand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/BulbSwitcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/CandiesProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/ContainsNumberWithinKDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/ConvertNumberIntoBase26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/Cordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/CountRanges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/DayDifferenceBetweenTwoDates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/DifferenceBetweenTwoTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/FindingCelebrity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/FloatPointConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/FourPointsFormSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/GetKthPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/HammingDistanceBetweenPair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/InsertInterval$Interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/InsertInterval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/IntegerListParser$NestedInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/IntegerListParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/LoadBalancers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/NestedInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/NestedIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/NumberToWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/PrimeNumbersBeforeN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/Read4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/Read4Function$Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/Read4Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/Relation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/RomanNumberToDecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/misc/SparseTableRangeMinimumQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/Fill2DMatrixWith1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/GameOfLife.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/MatrixCalculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/MatrixInDiagonalOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/MatrixOf0sAnd1s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/MoveCellPerCellValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/Mutable2DSumRangeQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/RotateImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/ShortestDistanceFromAllBuildings$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/ShortestDistanceFromAllBuildings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/SmallestRectangleBlackPixel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/SpiralGeneration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/SpiralPrinting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multiarray/TilingProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/BoundedBlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/Count10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/CountingWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/DatabaseLayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/DependencyTaskExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/DomainLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/FillupMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/FutureTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/MinMaxKeeper$GenerateRand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/MinMaxKeeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/Mutex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/PositionUpdater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/PrintInSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/QueueHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/QueueManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/RealTimeCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/SimpleSleepTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/SingleQueueDomainTableUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/SpinLockMutex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPoolExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPoolImpl$ExecutingRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPoolImpl$RunnableThreads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPoolImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadPoolManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/multithreaded/ThreadWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/AggregateNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/AllStrobogrammaticNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/ArithemeticProgressionExists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/ArrayMultiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/BasicCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/BinomialCoefficient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/ConvertToBaseN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/CountNoOf2s.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/CountNumbersNotIncluding4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/DivisionWithoutDivisionOperator$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/DivisionWithoutDivisionOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/EuclideanAlgoForGCD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/FactorialOfLargeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/GenerateSignature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/LargestMultipleOf3inArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/LuckyNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/MedianOf3Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/MthNumberInNSizeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/NBy2PairSumToK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/NextLargestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/NotIncluding4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/NumberOfCombinationsForStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/PermutationBiggerThanNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/PermutationLargerThanGivenArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/PowerFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/RearrangeNumberInArrayToFormLargestNumber$IntegerComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/RearrangeNumberInArrayToFormLargestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/RussianPeasantMultiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/SquareRoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/StrobogrammaticNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/Trailing0sinFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/number/UniquePartitionOfInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/playground/Okay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/playground/TestInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/random/Rand7UsingRand5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/random/RandomCountrySelectionByPopluation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/random/SelectMRandomNumbersInStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/random/ShuffleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/AllAdjacentCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/Bracketology.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/ChainWordsToFormCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/Combination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/CombinationOfSizeK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/CombinationWithStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/DifferentWaysToAddParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/FancyShuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/InterpretationOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/KeyPadPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/LongestAbsolutePath$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/LongestAbsolutePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/MinimumEditForReversePolishNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/NQueenProblem$Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/NQueenProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/OneEditApart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/OperatorAdditionForTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/OptimalDivision$Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/OptimalDivision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/PrintAllPathFromTopLeftToBottomRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/PrintAllSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/PrintArrayInAdjacentWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/PrintArrayInCustomizedFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/PrintSumCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/ReconstructItinerary$Itinerary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/ReconstructItinerary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/RemoveInvalidParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/RestoreIPAddresses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/SetPairTogether.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/StringInterleaving.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/StringPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/StringPermutationRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/SudokuSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/WordCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/recursion/WordPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/regex/MultiSpaceReplacement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/CountingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/IterativeQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/PanCakeSorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/Sort0toN3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/SortArrayByFrequence$FrequenceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/SortArrayByFrequence$SortNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/sort/SortArrayByFrequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/CircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/MaximumHistogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/MedianFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/RealTimeCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/RealTimeCounterUsingCircularQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/RemoveExtraBrackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/ReverseStackUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/SimplyPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/stackqueue/StockSpanProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/AnagramOfFirstAsSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/CycleLeaderIteration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/GroupAnagramsTogether.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/InPlaceTransformationOfString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/LexicographicRankInPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/LongestPalindromeSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/LongestSubstringWithKDistinctCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/LongestSubstringWithoutRepetingCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/MultiplyStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/NTMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/PalindromePair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/PrintAnagramTogether.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/RabinKarpSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/RearrangeDuplicateCharsdDistanceAway$CharCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/RearrangeDuplicateCharsdDistanceAway.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/RemoveConsecutiveDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/RunLengthEncoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/SmallestWindowContaingAllCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/StringEncoderDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/SubstringSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/SubtringWithConcatentationOfWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/ValidPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/ValidWordAbbreviation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/WordAbbreviationCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/string/ZAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/Active.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/End.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixArray$SuffixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixTree$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixTree$EndOfPathException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/SuffixTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/TernaryTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/TernaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/Trie$TrieNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/suffixprefix/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/AddGreaterValueNodeToEveryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ArbitaryTreeToChildSumTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BSTOneChildPreOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BSTSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BTree$BTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BTree$SplitResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTree$IntegerRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTreeFromParentRepresentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTreeMaximumPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTreeToCircularLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTreeToDoubleLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BinaryTreeToSortedLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/BoundaryTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ClosestValueBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConnectNodesAtSameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructBSTFromPreOrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructTreeFromInOrderPreOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructTreeFromLevelOrderInOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/ContructTreeFromInorderPostOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/CountNodesCompleteTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/CountNumberOfSmallerElementOnRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/CountPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/CountUnivalueTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/CousinNodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/DegenerateBinaryTreeToSortedLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/DiameterOfTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/FlattenLinkListToBinaryTreePreorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Height.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/HeightBalanced.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/HuffmanEncoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/HuffmanNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/HuffmanNodeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IdenticalTrees$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IdenticalTrees$BigSmall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IdenticalTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/InorderSuccessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IntegerRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/InternalNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IntervalTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IsBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IsCompleteBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/IsPreOrderArrayBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/KClosestValueInBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LargestBSTInBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LargestIndependentSetInTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LeavesOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LevelOrderTraversalInReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LongestConsecutiveSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LowestCommonAncestorInBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/LowestCommonAncestoryBinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/MinMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/MinOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/MorrisTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/NextInorderSuccessorIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/NextInorderSuccessorOfTwoTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/NodeRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/NodesAtDistanceK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/NodesWithNoSibling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/PathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/PopulateInOrderSuccessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/PreIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/PrintPostOrderFromPreOrderInOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/PrintTwoBSTInSortedForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/RedBlackTree$Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/RedBlackTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/RedBlackTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/RootToLeafToSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SameTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SegmentTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SegmentTreeMinimumRangeQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SerializeDeserializeBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SinkNegativeToBottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SizeOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SortedArrayToBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SortedOrderPrintCompleteTreeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SuccinctTree$Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SuccinctTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SumOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/SumTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/TreeIsomorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/TreeTraversalInSpiralOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/TreeTraversalLevelByLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/TreeTraversals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/UpsidedownBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/VertexCoverBinaryTreeDP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/VerticalOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/interview/tree/VerticalTreePrinting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/practice/Abbreviation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/practice/EqualNumbersOfOnesAndZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/practice/SortTwoSortedArrayWithoutExtraSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/practice/codechef/ChefAndDecision3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/practice/codechef/EncodedString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/TestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/AdditiveNumberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/ArrayAdditionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/MaximumMinimumArrangementTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/MeetingRoomsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/MultiplyAllFieldsExceptOwnPositionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/NumberOfTriangledInUnsortedArrayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/array/ThreeSumSmallerThanTargetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/bits/CountingBitsTillNumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/bits/MaxProductWordLengthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/dynamic/DecodeWaysTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/dynamic/PalindromePartitionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/graph/CourseScheduleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/graph/TravelingSalesmanHeldKarpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/graph/WallsAndGatesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/linklist/DeleteDuplicateNodesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/misc/IntegerListParserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/multiarray/Mutable2DSumRangeQueryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/number/AllStrobogrammaticNumberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/number/BasicCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/recursion/RestoreIPAddressesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/string/LongestSubstringWithKDistinctCharactersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/string/PalindromePairTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/string/StringEncoderDecoderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/string/ValidPalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/string/ValidWordAbbreviationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/suffixprefix/TrieTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/tree/KClosestValueInBinaryTreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/interview/tree/VerticalOrderTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1703406330">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="27" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2417" />
+          <entry key="txt" value="73" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1977" />
+          <entry key="PLAIN_TEXT" value="73" />
+          <entry key="Scratch" value="440" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/CircularQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/codechef/EncodedString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding>
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MaximumHistogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1890">
+              <caret line="130" column="31" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MedianFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PalindromePartition</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Immtable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/interview/Mutable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/EqualNumbersOfOnesAndZeros.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/SortTwoSortedArrayWithoutExtraSpace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/EqualNumbersOfOnesAndZeros.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Immutable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mutable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/Abbreviation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/codechef/EncodedString.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructurerPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="DataStructurerPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610735310671" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LuckBalance">
+    <configuration name="Abbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Abbreviation" />
+      <module name="DataStructurerPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChefAndDecision3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.codechef.ChefAndDecision3" />
+      <module name="DataStructurerPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.codechef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuckBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.hackerrank.LuckBalance" />
+      <module name="DataStructurerPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTwoSortedArrayWithoutExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.SortTwoSortedArrayWithoutExtraSpace" />
+      <module name="DataStructurerPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Abbreviation" />
+      <item itemvalue="Application.SortTwoSortedArrayWithoutExtraSpace" />
+      <item itemvalue="Java Scratch.Scratch" />
+      <item itemvalue="Application.ChefAndDecision3" />
+      <item itemvalue="Application.LuckBalance" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LuckBalance" />
+        <item itemvalue="Application.ChefAndDecision3" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Abbreviation" />
+        <item itemvalue="Application.SortTwoSortedArrayWithoutExtraSpace" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="472dd391-d624-4600-bd23-1466c54dd3e8" name="Default Changelist" comment="" />
+      <created>1608693285413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608693285413</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Codechef and other ds and algo problem">
+      <created>1610278250739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610278250739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.42716858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codechef and other ds and algo problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codechef and other ds and algo problem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/Abbreviation.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/Abbreviation.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>contests</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>totalProblems</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>abbreviationDP[i+1][j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>abbreviationDP[i+1][j+1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/Mutable.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/tree/KClosestValueInBinaryTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="111" column="36" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Immutable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Mutable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/SortTwoSortedArrayWithoutExtraSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/dynamic/PalindromePartitionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/EqualNumbersOfOnesAndZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/multithreaded/DependencyTaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28296">
+          <caret line="1630" column="38" selection-start-line="1630" selection-start-column="38" selection-end-line="1630" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/array/AdditiveNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/array/AdditiveNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Abbreviation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="99" column="42" lean-forward="true" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9684">
+          <caret line="580" column="33" selection-start-line="580" selection-start-column="33" selection-end-line="580" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#92993#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructurerPractice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4716">
+          <caret line="295" column="6" selection-start-line="295" selection-start-column="6" selection-end-line="295" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/EmptyStackException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="130" column="31" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MedianFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/codechef/ChefAndDecision3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/stackqueue/MaximumHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/codechef/EncodedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/hackerrank/LuckBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DataStructurerPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.common:google-collect:0.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
