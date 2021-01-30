@@ -38,31 +38,15 @@ hasCommonAncestor(parentChildPairs1, 5, 6) => true
 */
 
 
-
-
 import java.util.*;
+
 public class VmwareQuestion {
 
-    static int addNumbers(int a, int b) {
-        return a+b;
-    }
-
     public static void main(String[] args) {
-        /*
-        Scanner in = new Scanner(System.in);
-        int a;
-        a = in.nextInt();
-        int b;
-        b = in.nextInt();
-        int sum;
 
-        sum = addNumbers(a, b);
-        */
-        int[][] parentChildPairs1 = new int[][] {{1, 3}, {2, 3}, {3, 6}, {5, 6}, {5, 7}, {4, 5},{4, 8}, {4, 9},
+        int[][] parentChildPairs1 = new int[][]{{1, 3}, {2, 3}, {3, 6}, {5, 6}, {5, 7}, {4, 5}, {4, 8}, {4, 9},
                 {9, 11}, {14, 4}, {13, 12}, {12, 9}};
 
-        //System.out.println("hasCommonAncestor(parentChildPairs1, 3, 8) => "+ hasCommonAncestor(parentChildPairs1, 3, 8));
-        System.out.println("hasCommonAncestor(parentChildPairs1, 6, 8) => "+ hasCommonAncestor(parentChildPairs1, 6, 8));
         System.out.println(hasCommonAncestor(parentChildPairs1, 3, 8));
         System.out.println(hasCommonAncestor(parentChildPairs1, 5, 8));
         System.out.println(hasCommonAncestor(parentChildPairs1, 6, 8));
@@ -71,74 +55,53 @@ public class VmwareQuestion {
         System.out.println(hasCommonAncestor(parentChildPairs1, 7, 11));
         System.out.println(hasCommonAncestor(parentChildPairs1, 6, 5));
         System.out.println(hasCommonAncestor(parentChildPairs1, 5, 6));
-        //System.out.println("hasCommonAncestor(parentChildPairs1, 3, 8) => "+ hasCommonAncestor(parentChildPairs1, 3, 8));
-        //System.out.println("hasCommonAncestor(parentChildPairs1, 3, 8) => "+ hasCommonAncestor(parentChildPairs1, 3, 8));
-        //hasCommonAncestor(parentChildPairs1, 6, 8) => true
+
 
     }
-    private static boolean hasCommonAncestor(int [][] parentChildPairs1,int child1, int child2) {
-        boolean hasCommonAncestor=false;
-        Set<Integer> parentSet= new HashSet<>();
+
+    private static boolean hasCommonAncestor(int[][] parentChildPairs1, int child1, int child2) {
+        boolean hasCommonAncestor = false;
+        Set<Integer> parentSet = new HashSet<>();
         Queue<Integer> queue = new LinkedList<>();
 
-        Map<Integer, List<Integer>> childParent= new HashMap<>();
-        for(int[] arr:parentChildPairs1){
-            if(childParent.containsKey(arr[1])){
-                List<Integer> list= childParent.get(arr[1]);
+        Map<Integer, List<Integer>> childParent = new HashMap<>();
+
+        for (int[] arr : parentChildPairs1) {
+            if (childParent.containsKey(arr[1])) {
+                List<Integer> list = childParent.get(arr[1]);
                 list.add(arr[0]);
-            }
-            else{
-                List<Integer> list=new ArrayList<Integer>();
+            } else {
+                List<Integer> list = new ArrayList<>();
                 list.add(arr[0]);
-                childParent.put(arr[1],list);
+                childParent.put(arr[1], list);
             }
         }
 
-                if(childParent.get(child1)==null)return false;
-                childParent.get(child1).forEach(i->queue.add(i));
-                while(!queue.isEmpty()){
-                    parentSet.add(queue.peek());
-                    if(childParent.get(queue.peek())==null){
-                        queue.poll();
-                        continue;
-                    }
-                    childParent.get(queue.poll()).forEach(i->queue.add(i));
-                }
+        if (childParent.get(child1) == null) return false;
+        childParent.get(child1).forEach(i -> queue.add(i));
 
+        while (!queue.isEmpty()) {
+            parentSet.add(queue.peek());
+            if (childParent.get(queue.peek()) == null) {
+                queue.poll();
+                continue;
+            }
+            childParent.get(queue.poll()).forEach(i -> queue.add(i));
+        }
 
+        if (childParent.get(child2) == null) return false;
+        childParent.get(child2).forEach(i -> queue.add(i));
 
-
-
-                if(childParent.get(child2)==null)return false;
-                childParent.get(child2).forEach(i->queue.add(i));
-                while(!queue.isEmpty()){
-                    if(parentSet.contains(queue.peek())){
-                        return true;
-                    }
-                    //System.out.println("queue before " + queue );
-                    if(childParent.get(queue.peek())==null){
-                        queue.poll();
-                        continue;
-                    }
-
-                    childParent.get(queue.poll()).stream().forEach(i->queue.add(i));
-                    //System.out.println("queue after " + queue );
-                }
-
-
-
-           /*
-           if(arr[1]==child1){
-           queue.add(arr[0]);
-           while(queue.isEmpty()){
-               parentSet.add(queue.peek());
-               queue.add(childParent.get(queue.poll()));
-           }
-           break;
-       }
-       */
-
+        while (!queue.isEmpty()) {
+            if (parentSet.contains(queue.peek())) {
+                return true;
+            }
+            if (childParent.get(queue.peek()) == null) {
+                queue.poll();
+                continue;
+            }
+            childParent.get(queue.poll()).stream().forEach(i -> queue.add(i));
+        }
         return hasCommonAncestor;
-
     }
 }
