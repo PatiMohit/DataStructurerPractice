@@ -93,34 +93,24 @@ public class VmwareQuestion {
                 childParent.put(arr[1],list);
             }
         }
-        //System.out.println(childParent);
 
-        for(int[] arr:parentChildPairs1){
-            //System.out.println("( " + arr[0]+ ", "+arr[1]+ " )"  );
-            if(arr[1]==child1){
-                //System.out.println("matched arr[1]= "+arr[1]  );
-                queue.add(arr[0]);
+                if(childParent.get(child1)==null)return false;
+                childParent.get(child1).forEach(i->queue.add(i));
                 while(!queue.isEmpty()){
-                    //System.out.println("queue before " + queue );
                     parentSet.add(queue.peek());
-                    //System.out.println("childParent.get(queue.poll())=>" +childParent.get(queue.poll()));
                     if(childParent.get(queue.peek())==null){
                         queue.poll();
                         continue;
                     }
-                    childParent.get(queue.poll()).stream().forEach(i->queue.add(i));
-                    //System.out.println("queue after " + queue );
+                    childParent.get(queue.poll()).forEach(i->queue.add(i));
                 }
 
-            }
-        }
-        //System.out.println("parentSet "+parentSet);
 
-        for(int[] arr:parentChildPairs1){
-            //System.out.println("Second loop"  );
-            //System.out.println("( " + arr[0]+ ", "+arr[1]+ " )"  );
-            if(arr[1]==child2){
-                queue.add(arr[0]);
+
+
+
+                if(childParent.get(child2)==null)return false;
+                childParent.get(child2).forEach(i->queue.add(i));
                 while(!queue.isEmpty()){
                     if(parentSet.contains(queue.peek())){
                         return true;
@@ -134,8 +124,8 @@ public class VmwareQuestion {
                     childParent.get(queue.poll()).stream().forEach(i->queue.add(i));
                     //System.out.println("queue after " + queue );
                 }
-            }
-        }
+
+
 
            /*
            if(arr[1]==child1){
