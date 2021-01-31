@@ -77,7 +77,8 @@ public class VmwareQuestion {
             }
         }
 
-        if (childParent.get(child1) == null) return false;
+        if (childParent.get(child1) == null || childParent.get(child2) == null) return false;
+
         childParent.get(child1).forEach(i -> queue.add(i));
 
         while (!queue.isEmpty()) {
@@ -89,7 +90,7 @@ public class VmwareQuestion {
             childParent.get(queue.poll()).forEach(i -> queue.add(i));
         }
 
-        if (childParent.get(child2) == null) return false;
+
         childParent.get(child2).forEach(i -> queue.add(i));
 
         while (!queue.isEmpty()) {
