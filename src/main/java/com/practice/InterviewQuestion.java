@@ -40,7 +40,7 @@ hasCommonAncestor(parentChildPairs1, 5, 6) => true
 
 import java.util.*;
 
-public class VmwareQuestion {
+public class InterviewQuestion {
 
     public static void main(String[] args) {
 
